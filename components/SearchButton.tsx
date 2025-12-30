@@ -1,3 +1,1 @@
-export default function SearchButton() {
-  return null
-}
+export default function SearchButton() { return null; }
